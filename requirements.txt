@@ -1,0 +1,14 @@
+Flask
+matplotlib
+numpy
+pandas
+pydantic
+scikit-learn
+scipy
+seaborn
+gunicorn
+xgboost
+nltk
+Jinja2
+pickleshare
+cloudpickle
