@@ -1,0 +1,19 @@
+We have deployed the end-to-end project using Flask framework which has created a web application to deploy this ML model. 
+To make the web application public, we have used Heroku, which works as the platform as a service (PaaS) and helps to build, run and operate application entirely on the cloud.
+
+This Sentiment based Product Recommendation system has been deployed at URL - https://product-recommendation-api.herokuapp.com/
+
+It takes any of the existing username as input and on submit it recommends 5 best products based on the entered username
+
+
+Try the user-interface with below usernames - (For Demo)
+1. Danielle
+2. Anne
+3. Bobber
+4. Judy
+5. Asnyc
+6. Richy
+7. Dmanh7
+8. Movienut
+9. Moon16
+10. rusty67
