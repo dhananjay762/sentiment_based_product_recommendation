@@ -1,6 +1,6 @@
 # Sentiment Based Product Recommendation System
 
-### Have you ever wondered how e-commerce websites such as Amazon or Flipkart are giving you product recommendations that are quite similar to your likings or are similar to the products that you have already bought from these platforms?
+#### Have you ever wondered how e-commerce websites such as Amazon or Flipkart are giving you product recommendations that are quite similar to your likings or are similar to the products that you have already bought from these platforms?
 
 Reviews and ratings given by the users for the products play a vital role in purchase decisions. Suppose you want to buy a particular product from any e-commerce website, you check the reviews of that product, and if people are giving positive responses or higher ratings then the product is considered good to buy and if there are more negative responses or lower ratings, then it is not considered a good buy. We know that there are a lot of users who buy, review and submit the reviews and ratings of products on e-commerce websites. Now, based on these reviews and ratings, we can recommend products to the users.
 
